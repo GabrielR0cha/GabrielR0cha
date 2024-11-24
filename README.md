@@ -20,7 +20,7 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
 
 ## Como me encontrar  
-- [LinkedIn](https://www.linkedin.com)  
+- [LinkedIn](https://www.linkedin.com/in/gabriel-goncalves-rocha/)  
 - ✉️ Email: gabrielgrocha2023@gmail.com 
 
 💡 *Sempre em busca de novos desafios e aprendizados!*
